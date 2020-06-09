@@ -2,8 +2,7 @@ function useClickEvent({ element, id }, fn) {
   let targetElement;
   if (element) {
     targetElement = element;
-  }
-  if (id) {
+  } else if (id) {
     targetElement = document.getElementById(id);
   }
   useEffect(() => {
