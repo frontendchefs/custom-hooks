@@ -7,4 +7,5 @@
 <ol>
   <li>useFetch</li>
   <li>useClickEvent</li>
+  <li>useLocalStorage</li>
 </ol>
