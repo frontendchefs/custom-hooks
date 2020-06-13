@@ -8,4 +8,5 @@
   <li>useFetch</li>
   <li>useClickEvent</li>
   <li>useLocalStorage</li>
+  <li>useTimeout</li>
 </ol>
