@@ -3,7 +3,7 @@
   <p>A single stop for all custom react hooks</p>
 </div>
 
-<h2>Hooks:</h2>
+<h2>Custom Hooks:</h2>
 <ol>
   <li>useFetch</li>
   <p>Fetch data using a custom hook</p>
@@ -14,3 +14,4 @@
   <li>useTimeout</li>
   <p>A custom hook for timer</p>
 </ol>
+
