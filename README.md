@@ -6,6 +6,7 @@
 <h2>Hooks:</h2>
 <ol>
   <li>useFetch</li>
+  <p>Fetch data using a custom hook</p>
   <li>useClickEvent</li>
   <li>useLocalStorage</li>
   <li>useTimeout</li>
