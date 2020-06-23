@@ -10,5 +10,6 @@
   <li>useClickEvent</li>
   <p>A custom hook for click event</p>
   <li>useLocalStorage</li>
+  <p>A custom hook for local storage</p>
   <li>useTimeout</li>
 </ol>
