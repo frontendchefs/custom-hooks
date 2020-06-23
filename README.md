@@ -8,6 +8,7 @@
   <li>useFetch</li>
   <p>Fetch data using a custom hook</p>
   <li>useClickEvent</li>
+  <p>A custom hook for click event</p>
   <li>useLocalStorage</li>
   <li>useTimeout</li>
 </ol>
