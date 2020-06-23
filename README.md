@@ -12,4 +12,5 @@
   <li>useLocalStorage</li>
   <p>A custom hook for local storage</p>
   <li>useTimeout</li>
+  <p>A custom hook for timer</p>
 </ol>
