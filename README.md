@@ -6,7 +6,7 @@
 <h2>Custom Hooks:</h2>
 <ol>
   <li>useFetch</li>
-  <p>Fetch data using a custom hook. Pass the url and method type (defaults to GET).</p>
+  <p>Fetch data using a custom hook. Pass the url and method type (defaults to GET). It also accepts data to pass as a request payload</p>
   <li>useClickEvent</li>
   <p>A custom hook for click event</p>
   <li>useLocalStorage</li>
