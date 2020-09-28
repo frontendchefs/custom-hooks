@@ -13,5 +13,7 @@
   <p>A custom hook for local storage</p>
   <li>useTimeout</li>
   <p>A custom hook for timer</p>
+  <li>useInterval</li>
+  A hook for adding intervals.
 </ol>
 
