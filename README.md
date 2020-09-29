@@ -15,5 +15,7 @@
   <p>A custom hook for timer</p>
   <li>useInterval</li>
   A hook for adding intervals.
+  <li>useWindowEvent</li>
+  A hook for adding event listener on window. Event gets removed on componentunmount.
 </ol>
 
