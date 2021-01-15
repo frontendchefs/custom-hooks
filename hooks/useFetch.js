@@ -15,6 +15,8 @@ function useFetch(url, options = {}) {
           setIsLoading(false);
           setError(err);
         });
+        
+        return () => {};
     }, []);
   
     return { data, error, isLoading };
