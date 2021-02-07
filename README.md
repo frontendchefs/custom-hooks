@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Custom Hooks</h1>
-  <p>A single stop for all custom react hooks</p>
+  <p>Reusable hooks. Built on version react v16.8</p>
 </div>
 
 <h2>Custom Hooks:</h2>
